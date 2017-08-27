@@ -1,0 +1,1 @@
+%% Initializationclear ; close all; clcoverall = zeros(5, 10) ;for t = 1:5  A = ones(10,1) ;  overall(t, :) = A ;end overall
